@@ -32,9 +32,9 @@
   "scripts": {
     "test": "node index"
   },
-  "repository": {
+  "repository": {https
     "type": "git",
-    "url": "git+https://github.com/benisadewa/kntnbotwa"
+    "url": "git+https://github.com/rifky345/RifkyBotwa"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/kntnbotwa/issues"
-  },
-  "homepage": "https://github.com/benisadewa/kntnbotwa#readme"
+    "url": "https://github.com/rifky345/RifkyBotwa/issues"
+  },https
+  "homepage": "https://github.com/rifky345/RifkyBotwa#readme"
 }
